@@ -23,18 +23,18 @@
               tools:context="com.rockerhieu.emojicon.example.MainActivity$PlaceholderFragment">
 
 
-    <CheckBox
+   <!--  <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/use_system_default"
         android:id="@+id/use_system_default"
-        android:checked="false"/>
-
+        android:checked="false"/> -->
+<!-- 
     <com.rockerhieu.emojicon.EmojiconTextView
             android:id="@+id/txtEmojicon"
             android:text="@string/i_love_emojicon"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"/> -->
 
     <com.rockerhieu.emojicon.EmojiconEditText
             android:id="@+id/editEmojicon"
